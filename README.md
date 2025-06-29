@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Java**
 
-- 👨‍💻 All of my projects are available at ((raj-nakti-portfolio.netlify.app))
+- 👨‍💻 All of my projects are available at - [raj-nakti-portfolio.netlify.app](https://raj-nakti-portfolio.netlify.app)
 
 - 💬 Ask me about **AI, ML,Java and MERN**
 
